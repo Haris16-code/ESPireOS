@@ -1,9 +1,4 @@
 {
   "version": "1.0",
-  "url": "https://github.com/Haris16-code/ESPireOS/raw/main/ESPireOS_v1.ino.nodemcu.bin",
-  "changelog": [
-    "Added OTA update feature",
-    "Improved Wi-Fi connectivity",
-    "Fixed minor bugs"
-  ]
+  "url": "https://github.com/Haris16-code/ESPireOS/raw/main/ESPireOS_v1.ino.nodemcu.bin"
 }
