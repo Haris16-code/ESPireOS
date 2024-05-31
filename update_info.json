@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.0",
   "url": "http://192.168.1.3:8000/ESPireOS_v1/ESPireOS_v1.ino.nodemcu.bin",
   "changelog": [
     "Added OTA update feature",
